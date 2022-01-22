@@ -52,7 +52,6 @@ Judges:
 
 - Ethereum
 - Web3
-- Solidity
 
 ### Backend as a Service (BaaS)
 
