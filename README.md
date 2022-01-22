@@ -1,9 +1,5 @@
-### Hi there 👋
+### Welcome
 
-<!--
-**christophkoenekamp/christophkoenekamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Christoph Könekamp is leading the blockchain company Nerve Global, a blockchain-based peer-to-peer payment and reward scheme for social media users, operating as a global and borderless enterprise.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Web3
+Christoph is a highly motivated, client-focused and performance-driven certified blockchain expert with more than 2 years of professional experience. Focused team player with the ability to work under pressure. Strong in advising high profile individuals in their executions regarding blockchain technology. Proficient in communicating new ideas and opportunities to people of all ages, while resonating with the visions and interests of the new generation.
