@@ -9,12 +9,12 @@ Each applicant was assessed based on the project’s expected impact, community 
 ### Pitch Competition - $4K Grant from Blockland Solutions Conference
 Dec 2019
 
-honor descriptionJudges:
-Charlie Stack - Flashstarts
-Bob Sopko - Launchnet Case Western Reserve University
-Brad Owen - NeverBounce
-Bill Nottingham - Nottingham Spirk
-Scott Shane - Comeback Capital
-Liz Todia - Mutual Capital Partners
-Evan Karnoupakis - Media Shower
-Todd Federman - North Coast Angel Fund
+Judges:
+- Charlie Stack - Flashstarts
+- Bob Sopko - Launchnet Case Western Reserve University
+- Brad Owen - NeverBounce
+- Bill Nottingham - Nottingham Spirk
+- Scott Shane - Comeback Capital
+- Liz Todia - Mutual Capital Partners
+- Evan Karnoupakis - Media Shower
+- Todd Federman - North Coast Angel Fund
