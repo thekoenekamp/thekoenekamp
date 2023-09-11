@@ -1,13 +1,12 @@
-## About me
+## About
 
 - Christoph Könekamp leads Nerve Global, a blockchain-focused company providing a peer-to-peer payment and reward mechanism for social media enthusiasts. This initiative operates as a global and borderless enterprise.
 
-- With over five years of experience in the blockchain industry, Christoph is recognized for his commitment, client-centric approach, and performance-driven attitude. Beyond his technical acumen, he excels in advising on strategic blockchain applications. His ability to convey complex ideas in an accessible manner allows him to connect with a broad audience, reflecting the evolving needs and interests of today's generation.
+- He developed a cross-chain DEX that achieved a peak TVL of $8 million on blockchains such as Polygon, Aurora, and Harmony.
 
-- Love reading books on personal development & financial literacy. My favorite ones are Atomic Habbits by James Clear in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
+- Recently, Christoph also established a cross-chain bridge on LayerZero. This bridge tackles the complex challenges of omnichain operations. It sets itself apart with its solid infrastructure, unparalleled security through    a unique commitment mechanism, quick transactions via single-sided liquidity pools, efficient protocol fees, and a system designed to negate impermanent loss risks. Notably, it supports more than seven chains, including      Ethereum, Arbitrum One, and Optimism.
 
-- Love traveling
-
+- With over five years of experience in the blockchain industry, Christoph is recognized for his commitment, client-centric approach, and performance-driven attitude. Beyond his technical acumen, he excels in advising on       strategic blockchain applications. His ability to convey complex ideas in an accessible manner allows him to connect with a broad audience, reflecting the evolving needs and interests of today's generation.
 
 ## Honors & Awards
 
