@@ -1,8 +1,8 @@
 ## About me
 
-- Founder at Nerve Global, a blockchain-based peer-to-peer payment and reward scheme for social media users, operating as a global and borderless enterprise.
+- Christoph Könekamp leads Nerve Global, a blockchain-focused company providing a peer-to-peer payment and reward mechanism for social media enthusiasts. This initiative operates as a global and borderless enterprise.
 
-- Highly motivated, client-focused and performance-driven certified blockchain expert with more than 4 years of professional experience. Focused team player with the ability to work under pressure. Strong in advising high profile individuals in their executions regarding blockchain technology. Proficient in communicating new ideas and opportunities to people of all ages, while resonating with the visions and interests of the new generation.
+- With over five years of experience in the blockchain industry, Christoph is recognized for his commitment, client-centric approach, and performance-driven attitude. Beyond his technical acumen, he excels in advising on strategic blockchain applications. His ability to convey complex ideas in an accessible manner allows him to connect with a broad audience, reflecting the evolving needs and interests of today's generation.
 
 - Love reading books on personal development & financial literacy. My favorite ones are Atomic Habbits by James Clear in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
 
