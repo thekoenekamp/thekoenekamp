@@ -2,7 +2,7 @@
 
 - Christoph Könekamp leads Nerve Global, a blockchain-focused company providing a peer-to-peer payment and reward mechanism for social media enthusiasts. This initiative operates as a global and borderless enterprise.
 
-- He developed, in collaboration with his partner Philipp Georg, a multi-chain DEX designed to build and drive liquidity for layer-one blockchains, bridges, and partnering projects. This DEX achieved a peak TVL of $8 million   and was built on Polygon, Aurora, and Harmony.
+- He developed, in collaboration with his partner Philipp Georg, a multi-chain DEX designed to build and drive liquidity for layer-one blockchains, bridges, and partnering projects. This DEX was built on Polygon, Aurora, and Harmony.
 
 - Recently, Christoph, in collaboration with his partner Philipp Georg, developed a cross-chain bridge on LayerZero. This bridge tackles the complex challenges of omnichain operations. It sets itself apart with its solid       infrastructure, unparalleled security through    a unique commitment mechanism, quick transactions via single-sided liquidity pools, efficient protocol fees, and a system designed to negate impermanent loss risks. Notably,   it supports more than seven chains, including      Ethereum, Arbitrum One, and Optimism.
 
